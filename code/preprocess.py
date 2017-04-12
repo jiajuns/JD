@@ -1,3 +1,7 @@
+import pandas as pd
+import numpy as np 
+
+
 class preprocess(object):
     
     def __init__(self):
